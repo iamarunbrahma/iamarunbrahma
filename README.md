@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
+<h1 align="center">Hi there 👋, I'm Arun</h1>
 <h3 align="center">I'm ML Engineer and Crypto Enthusiast</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamarunbrahma" alt="iamarunbrahma" /></a> </p> -->
@@ -13,7 +13,7 @@
 
 - ⚡ Hobbies: **During weekends, I would either go on trekking or I would be cooking some delicious oriental cuisine. I am passionate about investing and love to read annual reports (or listen to con calls during free time).**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/heliosbrahma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heliosbrahma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamarunbrahma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamarunbrahma" height="30" width="40" /></a>
