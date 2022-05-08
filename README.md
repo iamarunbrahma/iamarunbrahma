@@ -11,7 +11,7 @@
 
 - 📫 Connect with me on: **linkedin.com/in/iamarunbrahma**
 
-- ⚡ Hobbies: **During weekends, I would either go on trekking or I would be cooking some delicious oriental cuisine. I am passionate about investing and love to read annual reports (or listen to con calls during free time).**
+- ⚡ Hobbies: **During weekends, I would either go on trekking or I would be cooking some delicious oriental cuisine. I am passionate about investing and reading annual reports (or listen to con calls during free time).**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
