@@ -11,8 +11,6 @@
 
 - 📫 Connect with me on: **linkedin.com/in/iamarunbrahma**
 
-- ⚡ Hobbies: **During weekends, I would either go on trekking or I would be cooking some delicious oriental cuisine. I am passionate about investing and reading annual reports (or listen to con calls during free time).**
-
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/heliosbrahma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heliosbrahma" height="30" width="40" /></a>
