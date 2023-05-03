@@ -24,3 +24,6 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarunbrahma&show_icons=true&locale=en&layout=compact" alt="iamarunbrahma" /></p><br/><br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarunbrahma&show_icons=true&locale=en" alt="iamarunbrahma" /></p> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamarunbrahma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=iamarunbrahma&limit=5&theme=dark&combine_all_yearly_contributions=true)
