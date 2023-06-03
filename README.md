@@ -3,11 +3,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamarunbrahma" alt="iamarunbrahma" /></a> </p> -->
 
-- 🔭 Currently building: **AI-enabled products using LLM's and end-to-end NLP solutions**
+- 🔭 Currently building: AI-enabled products using LLM's and end-to-end NLP solutions
 
-- 🌱 Currently learning: **Graph Neural Networks, Neo4j**
+- 🌱 Currently learning: Graph Neural Networks, Neo4j
 
-- 🔎 Open Source Contributions: **HuggingFace, Keras**
+- 🔎 Open Source Contributions: HuggingFace, Keras
 
 - 💬 Would love to discuss on: *Machine Learning and Finance*
 
